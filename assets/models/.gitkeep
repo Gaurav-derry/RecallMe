@@ -1,0 +1,6 @@
+# Placeholder for ML model files
+# Add the following TFLite models:
+# - mobilefacenet.tflite (Face embedding model)
+# - face_detection.tflite (Face detection model)
+
+
