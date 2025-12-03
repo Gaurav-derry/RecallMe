@@ -44,21 +44,54 @@ RecallMe is a comprehensive mobile AI assistant designed specifically for indivi
 ---
 ## 📸 App Demo & Screenshots
 
-![Home Screen](assets/images/demo/home_page.png)  
-![Memory Glimpse Dashboard](assets/images/demo/memory_glimpse.png)
+<div align="center">
 
-![My Memories](assets/images/demo/my_memories.png)  
-![Recall Conversation](assets/images/demo/recall_me_llm.png)
+<table>
+  <tr>
+    <td>
+      <img src="assets/images/demo/home_page.png" alt="Home Screen" width="230"/><br/>
+      <sub>Home Screen</sub>
+    </td>
+    <td>
+      <img src="assets/images/demo/memory_glimpse.png" alt="Memory Glimpse Dashboard" width="230"/><br/>
+      <sub>Memory Glimpse Dashboard</sub>
+    </td>
+    <td>
+      <img src="assets/images/demo/my_memories.png" alt="My Memories" width="230"/><br/>
+      <sub>My Memories</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/images/demo/recall_me_llm.png" alt="Recall Conversation" width="230"/><br/>
+      <sub>Recall Conversation</sub>
+    </td>
+    <td>
+      <img src="assets/images/demo/caregiver_Settings_start.png" alt="Caregiver Settings" width="230"/><br/>
+      <sub>Caregiver Settings</sub>
+    </td>
+    <td>
+      <img src="assets/images/demo/auto_email.png" alt="Auto Email Reports" width="230"/><br/>
+      <sub>Auto Email Reports</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/images/demo/dailyroutine.png" alt="Daily Routine List" width="230"/><br/>
+      <sub>Daily Routine List</sub>
+    </td>
+    <td>
+      <img src="assets/images/demo/routine.png" alt="Routine Detail" width="230"/><br/>
+      <sub>Routine Detail</sub>
+    </td>
+    <td>
+      <img src="assets/images/demo/weekly_records.png" alt="Weekly Records" width="230"/><br/>
+      <sub>Weekly Records</sub>
+    </td>
+  </tr>
+</table>
 
-
-![Caregiver Settings](assets/images/demo/caregiver_Settings_start.png)  
-![Auto Email Reports](assets/images/demo/auto_email.png)  
-
-![Daily Routine List](assets/images/demo/dailyroutine.png)  
-![Routine Detail](assets/images/demo/routine.png)  
-
-![Weekly Records](assets/images/demo/weekly_records.png)
-
+</div>
 
 
 
