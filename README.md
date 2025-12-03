@@ -576,7 +576,7 @@ For questions, issues, or contributions, please open an issue on GitHub or conta
 
 <div align="center">
 
-**Built with ❤️ for the Arm AI Developer Challenge 2025**
+**Built with ❤️ to help u remember what matters**
 
 *Helping you remember what matters*
 
