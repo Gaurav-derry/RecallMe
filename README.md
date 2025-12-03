@@ -560,10 +560,6 @@ The impact is significant—this technology can help millions of dementia patien
 
 ---
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 👥 Contributors
 
 Built for the Arm AI Developer Challenge 2025.
