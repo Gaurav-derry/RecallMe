@@ -44,17 +44,12 @@ RecallMe is a comprehensive mobile AI assistant designed specifically for indivi
 ---
 ## 📸 App Demo & Screenshots
 
-### Home & Navigation
-
 ![Home Screen](assets/images/demo/home_page.png)  
 ![Memory Glimpse Dashboard](assets/images/demo/memory_glimpse.png)
-
-### Memories & Recall
 
 ![My Memories](assets/images/demo/my_memories.png)  
 ![Recall Conversation](assets/images/demo/recall_me_llm.png)
 
-### Caregiver Tools & Routines
 
 ![Caregiver Settings](assets/images/demo/caregiver_Settings_start.png)  
 ![Auto Email Reports](assets/images/demo/auto_email.png)  
