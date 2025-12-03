@@ -41,13 +41,31 @@ RecallMe is a comprehensive mobile AI assistant designed specifically for indivi
 - Speech recognition and synthesis for voice interaction
 - Machine learning for pattern recognition in routines
 
-**🏅 Hackathon-Worthy**: This project demonstrates:
-- **Technical Excellence**: Sophisticated ML pipeline running efficiently on mobile hardware
-- **User Experience**: Intuitive, dementia-friendly interface with warm, calming design
-- **Production Ready**: Complete feature set with error handling, data persistence, and caregiver tools
-- **Open Source**: Well-documented codebase that others can learn from and build upon
-
 ---
+## 📸 App Demo & Screenshots
+
+### Home & Navigation
+
+![Home Screen](assets/images/demo/home_page.png)  
+![Memory Glimpse Dashboard](assets/images/demo/memory_glimpse.png)
+
+### Memories & Recall
+
+![My Memories](assets/images/demo/my_memories.png)  
+![Recall Conversation](assets/images/demo/recall_me_llm.png)
+
+### Caregiver Tools & Routines
+
+![Caregiver Settings](assets/images/demo/caregiver_Settings_start.png)  
+![Auto Email Reports](assets/images/demo/auto_email.png)  
+
+![Daily Routine List](assets/images/demo/dailyroutine.png)  
+![Routine Detail](assets/images/demo/routine.png)  
+
+![Weekly Records](assets/images/demo/weekly_records.png)
+
+
+
 
 ## 🚀 Key Features & Functionality
 
@@ -471,62 +489,6 @@ RecallMe follows dementia-friendly design principles:
 - **Multi-Modal Features**: Combines vision, NLP, and speech in one app
 - **Production-Ready Architecture**: Scalable, maintainable code structure
 
----
-
-## 🎬 Optional Media
-
-### Recommended Demo Video (2-3 minutes)
-
-**Suggested Structure:**
-
-1. **Introduction (0:00-0:20)**
-   - Show app icon and splash screen
-   - Brief overview: "RecallMe helps people with dementia recognize faces and recall memories"
-
-2. **Face Recognition Demo (0:20-0:50)**
-   - Open "Who Is This?" feature
-   - Show camera switching (front/back)
-   - Capture face and show recognition result with confidence percentage
-   - Highlight: "All processing happens on-device, no internet needed"
-
-3. **Memory Recall (0:50-1:30)**
-   - Navigate to Memories tab
-   - Select a memory photo
-   - Show AI conversation about the memory
-   - Demonstrate voice input and TTS output
-   - Highlight: "AI understands context and provides gentle, supportive responses"
-
-4. **Routine Management (1:30-2:00)**
-   - Show home page with today's routines
-   - Demonstrate routine completion
-   - Show schedule calendar view
-   - Highlight: "Smart notifications help maintain daily routines"
-
-5. **Technical Highlights (2:00-2:30)**
-   - Quick overview of ML architecture
-   - Show Arm optimization benefits
-   - Emphasize privacy (all data local)
-
-6. **Closing (2:30-3:00)**
-   - Show weekly records/reports
-   - Call to action: "Built for Arm AI Developer Challenge 2025"
-   - Thank you
-
-### Audio Walkthrough Script
-
-**Suggested 3-5 minute audio explanation:**
-
-"RecallMe is an innovative mobile AI application designed to help people with dementia recognize familiar faces and recall important memories. What makes it special is that all AI processing happens entirely on the device—no cloud, no internet required, ensuring complete privacy.
-
-The core technology is our custom face recognition system. We use Google ML Kit for face detection, which is optimized for Arm processors, and then we extract a 256-dimensional feature vector using a combination of color histograms, spatial grid analysis, gradient features, and texture patterns. This multi-modal approach ensures accurate recognition even in varying lighting conditions.
-
-For memory recall, we integrate Azure OpenAI's GPT-4 to have natural conversations about photos. The system maintains context across multiple messages and provides short, dementia-friendly responses that are then spoken aloud using text-to-speech.
-
-All of this is optimized for Arm architecture, using NEON SIMD instructions for vectorized operations and efficient memory management. The app runs smoothly on mid-range Arm devices, making it accessible to a wide range of users.
-
-The impact is significant—this technology can help millions of dementia patients maintain their connections with loved ones and preserve their memories. And because it's open source, other developers can learn from our approach and build upon it for their own projects."
-
----
 
 ## 🏅 Why RecallMe Should Win
 
