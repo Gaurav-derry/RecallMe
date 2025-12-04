@@ -42,6 +42,7 @@ RecallMe is a comprehensive mobile AI assistant designed specifically for indivi
 - Machine learning for pattern recognition in routines
 
 ---
+
 ## 📸 App Demo & Screenshots
 
 ### 🎥 Demo Video
