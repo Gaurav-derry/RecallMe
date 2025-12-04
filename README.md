@@ -48,7 +48,7 @@ RecallMe is a comprehensive mobile AI assistant designed specifically for indivi
 
 <div align="center">
 
-[![Demo Video](https://www.youtube.com/watch?v=H4r1tLobEPk/0.jpg)](https://www.youtube.com/watch?v=H4r1tLobEPk)
+**[Click here to watch the Demo Video](https://www.youtube.com/watch?v=H4r1tLobEPk)**
 
 </div>
 
