@@ -44,6 +44,14 @@ RecallMe is a comprehensive mobile AI assistant designed specifically for indivi
 ---
 ## 📸 App Demo & Screenshots
 
+### 🎥 Demo Video
+
+<div align="center">
+
+[![Demo Video](https://www.youtube.com/watch?v=H4r1tLobEPk/0.jpg)](https://www.youtube.com/watch?v=H4r1tLobEPk)
+
+</div>
+
 <div align="center">
 
 <table>
@@ -494,7 +502,7 @@ RecallMe follows dementia-friendly design principles:
 
 ---
 
-## 🎯 Potential Impact
+## 🎯 Impacts
 
 ### Healthcare Impact
 
@@ -517,38 +525,6 @@ RecallMe follows dementia-friendly design principles:
 - **Multi-Modal Features**: Combines vision, NLP, and speech in one app
 - **Production-Ready Architecture**: Scalable, maintainable code structure
 
-
-## 🏅 Why RecallMe Should Win
-
-### Technological Implementation ⭐⭐⭐⭐⭐
-
-- **Sophisticated ML Pipeline**: Custom embedding algorithm combining multiple feature extraction techniques
-- **Arm Optimization**: Leverages Arm NEON, big.LITTLE architecture, and efficient memory patterns
-- **Production Quality**: Error handling, edge cases, data persistence, offline capability
-- **Innovative Solution**: Addresses real healthcare challenge with cutting-edge technology
-
-### User Experience ⭐⭐⭐⭐⭐
-
-- **Dementia-Friendly Design**: Warm colors, large touch targets, simple language, voice feedback
-- **Intuitive Navigation**: Clear bottom bar, logical screen flow, helpful empty states
-- **Production Ready**: Complete feature set, polished UI, smooth animations
-- **Accessibility**: Designed for users with cognitive impairments
-
-### Potential Impact ⭐⭐⭐⭐⭐
-
-- **Healthcare Impact**: Improves quality of life for millions of dementia patients
-- **Developer Community**: Open source, well-documented, educational value
-- **Privacy Innovation**: Demonstrates privacy-first AI without cloud dependency
-- **Scalability**: Can be deployed globally, works on affordable devices
-
-### WOW Factor ⭐⭐⭐⭐⭐
-
-- **Complete AI System**: Face recognition + NLP + Speech in one cohesive app
-- **On-Device Magic**: Complex ML running smoothly on mobile hardware
-- **Real-World Application**: Solves actual problem affecting millions
-- **Technical Excellence**: Sophisticated yet accessible, production-ready yet innovative
-
----
 
 ## 👥 Contributors
 
