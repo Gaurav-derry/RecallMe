@@ -528,10 +528,6 @@ RecallMe follows dementia-friendly design principles:
 - **Production-Ready Architecture**: Scalable, maintainable code structure
 
 
-## 👥 Contributors
-
-Built for the Arm AI Developer Challenge 2025.
-
 ## 📞 Contact & Support
 
 For questions, issues, or contributions, please open an issue on GitHub or contact the development team.
